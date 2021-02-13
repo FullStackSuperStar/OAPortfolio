@@ -2,7 +2,7 @@
 Advanced CSS homework
 Week 2 Homework Assignment An employer WANTS to view a potential employee's deployed portfolio of work samples SO THAT I can become employed they want review samples of my work and assess whether I'm a good candidate for an open position
 
-##ACCEPTANCE CRITERIA:
+## ACCEPTANCE CRITERIA:
 *  GIVEN a webpage meets accessibility standards
 *  GIVEN I need to sample a potential employee's previous work
 *  WHEN I load their portfolio
