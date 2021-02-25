@@ -51,12 +51,14 @@ p {
 }
 
 .hero {
-    height: 1200px;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("./images/OAwbdev4bg.png");
+    background-image: url("./images/oabgheroimage.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: center center;
+    background-position-x: center;
+    background-position-y: center;
 }
 
 .float-left {
