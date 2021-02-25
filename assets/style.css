@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("./images/oabgheroimage.jpg");
+    background-image: url("./images/undrCnstrc.jpg");
     background-size: cover;
     background-position: center center;
     background-position-x: center;
@@ -77,10 +77,10 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+/* .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
+    clear: right;
     float: right;
     width: 20%;
     height: 100%;
@@ -134,7 +134,7 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
 .about {
     margin-bottom: 20px;
