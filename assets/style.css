@@ -135,7 +135,6 @@ p {
 }
 
 .about {
-    margin-left: 10px;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -145,7 +144,6 @@ p {
 }
 
 .projects {
-    margin-left: 10px;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -163,29 +161,29 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.about img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+.projects img {
     max-height: 200px;
 }
 
-.social-media-marketing img {
+.contact img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.about h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+.projects h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.contact h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
