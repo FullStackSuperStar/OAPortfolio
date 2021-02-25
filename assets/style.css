@@ -134,7 +134,8 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.about {
+    margin-left: 10px;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,7 +144,8 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
+.projects {
+    margin-left: 10px;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -152,7 +154,7 @@ p {
     color: #ffffff;
 }
 
-.social-media-marketing {
+.contact {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
